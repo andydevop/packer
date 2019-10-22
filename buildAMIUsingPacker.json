@@ -13,6 +13,7 @@
               },
               "most_recent": true
             },
+						"owners": ["amazon"],
             "ssh_username": "ec2-user",
             "type": "amazon-ebs"
         }
